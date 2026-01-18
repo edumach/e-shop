@@ -31,7 +31,8 @@ Zákazník si na e-shopu objednává zboží (pro jednoduchost v náhodné hodno
 
 Konečná cena bude vždy **zvýrazněna**. 
 
-## Odevzdání
+
+##  Odevzdání
 
 Skript bude správně počítat výsledné hodnoty podle zadání. 
 
