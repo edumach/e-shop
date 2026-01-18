@@ -1,5 +1,5 @@
 
-#  💾 Nákup na e-shopu
+#  Nákup na e-shopu
 
 Živá ukázka: [https://php.edumach.cz/eshop.php](https://php.edumach.cz/eshop.php)
 
