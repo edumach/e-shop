@@ -17,7 +17,7 @@ Zákazník si na e-shopu objednává zboží (pro jednoduchost v náhodné hodno
     ```
 4. Zkontroluj funkčnost webu na URL `https://tux.panska.cz/~10XPrijmeniJ/e-shop`
 
-## Logika kódu
+## Logika kódu (úkoly)
 
 1. Vygeneruj kusovou cenu v intervalu 100 - 800.
 2. Vygeneruj počet kusů v intervalu 1 - 6.
